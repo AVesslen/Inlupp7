@@ -1,0 +1,61 @@
+
+*
+{
+    color:White;    
+}  
+
+body
+{
+    background-color: black  
+}
+
+body
+{
+    font-family:sans-serif;
+}
+
+footer
+{
+    background-color: brown; 
+    height:50px;
+    text-align: center;     
+}
+
+
+#Filminfo 
+{
+    width: 700px;
+    padding: 10px;    
+    margin: 0 auto 0 auto;
+    background-color: black;  
+    text-align: center;       
+}
+  
+
+#Trailer
+{
+    text-align: center;
+}
+
+.menu
+{   
+    list-style:none;   /* Inga punkter i listan */
+}
+
+.menu li:hover
+{
+    background-color: brown;
+}
+
+.menu li
+{
+display:inline;  /*horisontella länkar*/
+}
+
+.menu a
+{
+    text-decoration: none;  /* Ingen linje under länken */
+}
+
+
+
